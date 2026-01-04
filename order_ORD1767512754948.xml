@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Order>
+    <OrderId>ORD1767512754948</OrderId>
+    <CustomerId>CUST1</CustomerId>
+    <Items>
+        <Item>Biryani</Item>
+        <Item>Butter Chicken</Item>
+        <Item>Naan</Item>
+        <Item>Raita</Item>
+        <Item>Salad</Item>
+        <Item>Dessert</Item>
+    </Items>
+    <TotalAmount>1140.0</TotalAmount>
+    <QueueNumber>1001</QueueNumber>
+    <Status>DELIVERED</Status>
+    <Priority>true</Priority>
+    <AssignedChef>Chef John</AssignedChef>
+    <EstimatedTime>40</EstimatedTime>
+    <DeliveryStaff>Ali Rahman</DeliveryStaff>
+    <Rating>5</Rating>
+    <Feedback>Good food and fast delivery</Feedback>
+</Order>

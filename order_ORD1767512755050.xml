@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Order>
+    <OrderId>ORD1767512755050</OrderId>
+    <CustomerId>CUST002</CustomerId>
+    <Items>
+        <Item>Chicken Tikka</Item>
+        <Item>Rice</Item>
+        <Item>Drinks</Item>
+    </Items>
+    <TotalAmount>450.0</TotalAmount>
+    <QueueNumber>1002</QueueNumber>
+    <Status>DELIVERED</Status>
+    <Priority>true</Priority>
+    <AssignedChef>Chef Maria</AssignedChef>
+    <EstimatedTime>25</EstimatedTime>
+    <DeliveryStaff>Sara Khan</DeliveryStaff>
+    <Rating>4</Rating>
+    <Feedback>Food was good but slow delivery</Feedback>
+</Order>

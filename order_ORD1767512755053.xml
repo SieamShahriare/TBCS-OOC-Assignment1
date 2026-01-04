@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Order>
+    <OrderId>ORD1767512755053</OrderId>
+    <CustomerId>CUST1</CustomerId>
+    <Items>
+        <Item>Beef Kebab</Item>
+        <Item>Paratha</Item>
+        <Item>Tea</Item>
+    </Items>
+    <TotalAmount>570.0</TotalAmount>
+    <QueueNumber>1003</QueueNumber>
+    <Status>DELIVERED</Status>
+    <Priority>true</Priority>
+    <AssignedChef>Chef Ahmed</AssignedChef>
+    <EstimatedTime>25</EstimatedTime>
+    <DeliveryStaff>Fahim Ahmed</DeliveryStaff>
+    <Rating>4</Rating>
+    <Feedback>Good as always!</Feedback>
+</Order>
